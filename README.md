@@ -2,7 +2,7 @@
 
 ### 👯 Connect with me 👯
 
-[<img align="left" alt="Toast#7073 | Discord" width="102px" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d718355f9c89eb0fd350_Logo.svg"/>][Discord]
+[<img align="left" alt="Toast#7073 | Discord" width="256px" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d718355f9c89eb0fd350_Logo.svg"/>][Discord]
 
 <br/>
 
