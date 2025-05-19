@@ -51,4 +51,4 @@ GB / GBR, *United Kingdom* - **[UTC +0]**
 
 
 
-[Discord]: https://discord.bio/p/ohcrumbs/
+[Discord]: https://discordapp.com/users/296896906184097792
