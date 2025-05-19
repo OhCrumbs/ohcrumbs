@@ -35,12 +35,12 @@ GB / GBR, *United Kingdom* - **[UTC +0]**
 - [Dash Cargo](https://dashvtc.com)
 - [FilthyMC](https://filthymc.net)
 
-### ⌨️ Latest projects ⌨️
+### ⌨️ Previous projects ⌨️
 - [Nexus Streams](https://nexusstreams.com)
 - [HexMines](https://hexmines.net)
 
-### 💼 Current employment 💼
-- Freelance full stack web developer and graphic designer
+### 💼 Full Time Employment 💼
+- Currently not available for hire. 
 
 ### ⚡ GitHub Stats ⚡
 [![trophy](https://github-profile-trophy.vercel.app/?username=ohcrumbs&margin-w=15&title=Commit,PR,Repo,Followers)](https://github.com/ryo-ma/github-profile-trophy)
